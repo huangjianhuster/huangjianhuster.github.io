@@ -83,8 +83,8 @@ author:
   name             : "Jian Huang"
   avatar           : "profile.jpg"
   bio              : "Graduate student, Computational Chemistry"
-  location         : "MA"
-  employer         : "UMass Chemistry Department"
+  location         : "UMass Chemistry Department, MA"
+  employer         : 
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=xhzXlJsAAAAJ&hl=en"
   email            : "jianhuang@umass.edu"
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "https://twitter.com/jianh2022"
   vine             :
   weibo            :
   xing             :

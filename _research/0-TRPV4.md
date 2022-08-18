@@ -14,6 +14,3 @@ In this project,, I am trying to combine experiments and atomistic MD stimulatio
 **Significance**
 
 Revealing the temperature sensing mechanism of TRPV4 provides new insights to understand its physiological roles and functionalities and also helps us to understand the pathogenesis of channelopathies and design targeting drugs.
-
-
-

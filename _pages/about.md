@@ -31,11 +31,13 @@ My interest shifted to computational biophysics after my graduation though. I go
 </p>
 
 ## Where/What I intend to go/do next
+
 <p align="justify"> I am now a thrid-year Ph.D candidate after passing the ORP exam in the Chemistry department. I intend to continue my studies in protein dynamics and hope I could dig deeper into both the scientific research in biophysics and computational techniques for MD simulations. I hope further betterment of my skills could benefit myself for future possible post-doc or industry positions.
 I am constantly seeking for cooperation opportunities in both academia and industry.
 </p>
 
 ## Jian's Logo
+
 <p align="middle"><em>The new full Moon rising from the sea surface</em></p >
 <img align="right" src="/images/logo1.png" width='250' hspace="20" />
 <br>
@@ -46,8 +48,9 @@ The whole logo consists of blue sky, the bright yellow moon and the sea tinged w
 <br>
 <p align="middle"><em>Logo based on initails</em></p >
 
-<img align="right" src="/images/logo8.png" width='250' hspace="20" /> 
+<img align="right" src="/images/logo9.png" width='250' hspace="20" /> 
 <br>
+
 <p align="justify">
 The logo is a combination of "J H", the initials of my name. I rendered the logo using Adobe illustrator. Umass maroon (Hex 881c1c) and black is used to color the letters.
 </p >

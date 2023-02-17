@@ -36,6 +36,7 @@ My interest shifted to computational biophysics after my graduation though. I go
 I am constantly seeking for cooperation opportunities in both academia and industry.
 </p>
 
+<!--
 ## Jian's Logo
 
 <p align="middle"><em>The new full Moon rising from the sea surface</em></p >
@@ -56,3 +57,4 @@ The logo is a combination of "J H", the initials of my name. I rendered the logo
 </p >
 <br>
 <br>
+-->

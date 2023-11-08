@@ -9,13 +9,15 @@ author_profile: true
 
 <br>
 <ol reversed>
-  
+
 <h2 style='margin-top:0'>2023</h2>
 
 <li>
-Huang, J. Chen, J. Hydrophobic gating in bundle-crossing ion channels: a case study of TRPV4 (preparing).
+<b>Huang, J.</b> & Chen, J. Hydrophobic gating in bundle-crossing ion channels: a case study of TRPV4. <b>Commun Biol</b> 6, 1–9 (2023).
+<a href="https://pubmed.ncbi.nlm.nih.gov/37891195/">PUBMED</a>.
+<a href="https://www.nature.com/articles/s42003-023-05471-0">DOI</a>
 </li>
-  
+
 <h2 style='margin-top:0'>2022</h2>
 
 <li>

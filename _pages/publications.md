@@ -13,6 +13,11 @@ author_profile: true
 <h2 style='margin-top:0'>2023</h2>
 
 <li>
+<b>Huang, J.</b> <li>
+<b>Huang, J.</b>, Korsunsky, A., Yazdani, M., & Chen, J. Hydrophobic gating in bundle-crossing ion channels: a case study of TRPV4. <b>Submitted</b> 6, 1–9 (2023).
+</li>
+ 
+<li>
 <b>Huang, J.</b> & Chen, J. Hydrophobic gating in bundle-crossing ion channels: a case study of TRPV4. <b>Commun Biol</b> 6, 1–9 (2023).
 <a href="https://pubmed.ncbi.nlm.nih.gov/37891195/">PUBMED</a>.
 <a href="https://www.nature.com/articles/s42003-023-05471-0">DOI</a>
@@ -30,13 +35,13 @@ Jia, Z.#, <b>Huang, J.#</b> & Chen, J. Activation of TMEM16F by inner gate charg
 <h2 style='margin-top:0'>2021</h2>
 
 <li>
-Xue T, Wu W, Guo N, Wu C, <b>Huang J</b>, Lai L, Liu H, Li Y, Wang T, Wang Y. Single point mutations can potentially enhance infectivity of SARS-CoV-2 revealed by <i>in silico</i> affinity maturation and SPR assay. <b>RSC Adv</b>. 2021 May 10.
+Xue T., Wu W., Guo N., Wu C., <b>Huang J.</b>, Lai L., Liu H., Li Y., Wang T., Wang Y. Single point mutations can potentially enhance infectivity of SARS-CoV-2 revealed by <i>in silico</i> affinity maturation and SPR assay. <b>RSC Adv</b>. 2021 May 10.
 <a href="https://pubmed.ncbi.nlm.nih.gov/35423963/">PUBMED</a>.
 <a href="https://pubs.rsc.org/en/content/articlelanding/2021/RA/D1RA00426C">DOI</a>.
 </li>
 
 <li>
-Fu Y#, <b>Huang J#</b>, Wu Y, Liu X, Zhong F, Wang J. Biocatalytic Cross-Coupling of Aryl Halides with a Genetically Engineered Photosensitizer Artificial Dehalogenase. <b>J Am Chem Soc</b>. 2021 Jan 20;143(2):617-622.
+Fu Y.#, <b>Huang J.#</b>, Wu Y., Liu X., Zhong F., Wang J. Biocatalytic Cross-Coupling of Aryl Halides with a Genetically Engineered Photosensitizer Artificial Dehalogenase. <b>J Am Chem Soc</b>. 2021 Jan 20;143(2):617-622.
 <a href="https://pubmed.ncbi.nlm.nih.gov/33410683/">PUBMED</a>. 
 <a href="https://pubs.acs.org/doi/10.1021/jacs.0c10882">DOI</a>.
 </li>

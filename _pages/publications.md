@@ -13,7 +13,8 @@ author_profile: true
 <h2 style='margin-top:0'>2023</h2>
 
 <li>
-<b>Huang, J.</b>, Korsunsky, A., Yazdani, M., & Chen, J. Targeting TRP Channels: Recent Advances in Structure, Ligand Binding and Molecular Mechanisms. <b>Submitted</b>(2023).
+<b>Huang, J.</b>, Korsunsky, A., Yazdani, M., & Chen, J. Targeting TRP Channels: Recent Advances in Structure, Ligand Binding and Molecular Mechanisms. <b>Frontiers in Molecular Neuroscience.</b> (2023).
+ <a href="http://journal.frontiersin.org/article/10.3389/fnmol.2023.1334370/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Molecular_Neuroscience&id=1334370">Available Online</a>
 </li>
 
 <li>

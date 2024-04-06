@@ -9,9 +9,19 @@ author_profile: true
 
 <br>
 <ol reversed>
+ 
+<hr>
+<h2 style='margin-top:0'>2024</h2>  
+<li>
+V. Burtscher, J. Mount, J. <b>Huang, J</b>. Cowgill, Y. Chang, K. Bickel, J. Chen, P. Yuan, and B. Chanda. Structural Basis for Hyperpolarization-dependent Opening of Human HCN1 Channel. <b>Nature Communications.</b> under revision.
+</li>  
 
+<li>
+V. Nguyen*, C. Özden*, K. Dong, A. Ocampo, N. Dziedzic, D. Flaherty, <b>J. Huang</b>, D. Tomchick, J. Chen, S. Garman, M. Stratton. CaMKII variable linker-mediated allosteric regulation of Ca2+/CaM sensitivity through a domain-swapped conformation. (submitted)
+</li>
+
+<hr>
 <h2 style='margin-top:0'>2023</h2>
-
 <li>
 <b>Huang, J.</b>, Korsunsky, A., Yazdani, M., & Chen, J. Targeting TRP Channels: Recent Advances in Structure, Ligand Binding and Molecular Mechanisms. <b>Frontiers in Molecular Neuroscience.</b> (2023).
  <a href="http://journal.frontiersin.org/article/10.3389/fnmol.2023.1334370/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Molecular_Neuroscience&id=1334370">Available Online</a>
@@ -23,6 +33,7 @@ author_profile: true
 <a href="https://www.nature.com/articles/s42003-023-05471-0">DOI</a>
 </li>
 
+<hr>
 <h2 style='margin-top:0'>2022</h2>
 
 <li>

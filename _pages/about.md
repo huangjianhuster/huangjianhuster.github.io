@@ -23,6 +23,8 @@ I am particularly interested in ion channels. Ion channels are integrated membra
 -->
 ## where I have been to
 
+<img align="right" src="jianhuang_at_PA.jpg" width='250' hspace="20" /> 
+
 <p align="justify">
 I began studying chemistry in Huazhong University of Science and technology in 2012, after which I decided to dive deeper into the biochemistry world. I earned my Master's degree in Biochemistry and Molecular Biology at Institute of Biophysics, Chinese Academy of Sciences in 2019. During this time, I learnt how to do organic synthesis starting from synthetic route design, basic protein expression procedure (PCR, *E. coli* expression, purification, and characterization) as well as genetic code expansion technique for incorporation of an unnatural amino acid into specific sites of a protein. 
 </p>

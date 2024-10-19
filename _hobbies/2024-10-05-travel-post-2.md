@@ -7,7 +7,7 @@ category: Travel
 ---
 
 <p align="justify">Hiking to the <b>Mountain Lafayette</b> with friends from UMass Amherst.</p>
-<br/><a href="/hobbies/2024/10/mountain_lafayette/" class="image" id="researchfest"><img src="/images/travels/2_mountain_lafayette_0.png" height="350" width="500"/></a><br/>
+<br/><div style="text-align: center;"><a href="/hobbies/2024/10/mountain_lafayette/" class="image" id="researchfest"><img src="/images/travels/2_mountain_lafayette_0.png" height="350" width="500"/></a></div><br/>
 
 <!--
 <div style="width:100%;text-align:center;"><br/><a href="/hobbies/2024/10/mountain_lafayette/" class="image" id="trip-mountain"><img src="/images/travels/2_mountain_lafayette_0.png" height="300" width="700"/></a><br>

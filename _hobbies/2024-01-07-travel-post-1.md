@@ -6,8 +6,9 @@ collection: hobbies
 category: Travel
 ---
 
-<p align="justify">A super fun trip to Puerto Rico during 2024/1/5 ~ 2024/1/10 with my friend. </p>
-<br/><a href="/hobbies/2024/01/trip_to_PR/" class="image" id="trip_PR"><img src="/images/travels/PR_1.jpg" height="350" width="500"/></a><br/>
+<p align="justify">A trip to Puerto Rico</p>
+<br/>
+<div style="text-align: center;"><a href="/hobbies/2024/01/trip_to_PR/" class="image" id="trip_PR"><img src="/images/travels/PR_1.jpg" height="350" width="500"/></a></div><br/>
 
 <!-- <div style="width:100%;text-align:center;"><br/><a href="/hobbies/2024/01/trip_to_PR/" class="image" id="trip-pr"><img src="/images/travels/PR_1.jpg" height="300" width="700"/></a><br>
 <p align="center"><b>Jian at the Castillo de San Cristóbal in the old San Juan</b></p></div> -->

@@ -7,7 +7,8 @@ category: Travel
 ---
 
 <p align="justify">Hiking to the <b>Northfield Mountain Reservoir</b> with a friend.</p>
-<br/><a href="/hobbies/2024/10/riverview/" class="image" id="researchfest"><img src="/images/travels/3_riverview_0.jpeg" height="350" width="500"/></a><br/>
+<br/>
+<div style="text-align: center;"><a href="/hobbies/2024/10/riverview/" class="image" id="researchfest"><img src="/images/travels/3_riverview_0.jpeg" height="350" width="500"/></a></div><br/>
 
 
 <div style="width:100%;text-align:center;"><img src='/images/travels/3_riverview_1.jpeg' width=500></div>

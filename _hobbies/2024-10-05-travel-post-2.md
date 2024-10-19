@@ -31,5 +31,7 @@ category: Travel
 <div style="width:100%;text-align:center;"><img src='/images/travels/2_mountain_lafayette_8.jpeg' width=500></div>
 <p align="center"><b>View from the summit of Mountain Lafayette</b>
 
-
+<p align="justify">
+Many thanks to the invitation from Caiqin and also her dedicated organization for this whole trip. We spent a super fun and a little bit exhausting 12-hour hiking together. I always felt so lucky to appreciate the beauty from nature and share happiness with my friends together. The fall season of the new England region of US is the prime time of the year. The foilage started to peak at the time we were hiking. The view from the summit strikes me with colorful blankets of trees full of green, orange, red leaves.
+</p>
 

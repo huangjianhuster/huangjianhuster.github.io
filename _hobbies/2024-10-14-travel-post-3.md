@@ -18,5 +18,9 @@ category: Travel
 <br>
 <p align="center"><b>View from the hiking</b>
 
+<p align="justify">
+Thanks to my friend to accompany me with this journey. The decent amount of hiking along with the fall brezze and nice weather really made my day.
+</p>
+
 
 

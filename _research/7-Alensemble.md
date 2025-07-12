@@ -12,7 +12,7 @@ As you can image, IDPs are flexible and plastic and can adopt way more conformat
 
 In this research direction, we propose to use deep learning neural networks to learn large MD simulation data of IDPs and hopeful can easily and quickly generate IDP ensembles with good qualities on the description of ensemble properties similar to MD ensembles. This can potentially avoid runing extremely long time simulations and predictively generate IDP ensembles for any given sequences.
 
-<img src='/images/research/seq35.gif' width=500>
+<img src='/images/research/seq35.gif' width=800>
 
 The above gif shows the first phase of our Al model -- a autoencoder that can be used to reconstruct MD coordinates. As you can see in the 3D figure, each conformation can almost be perfectly reconstructed. We used dihedral angle loss and distance map loss in our training. The decoder of the autoencoder could be used to take a latent space representation and generate 3D coordinates. Then, it comes to the second phase of the Al model. We want to learn the latent space probability distributions
 of IDPs using the famous DDPM (denoising diffusion probabilistic model) architecture. It can learn from sequences and their latent space representations from the encoder in the training. In the inference, the DDPM will generate new latent space representations for a given sequence, which will then be decoded into 3D coordinates. If we generate enough frames of those coordinates, we can eventually have a Al generated IDP ensemble that hopefully captures the properties of a real MD ensemble,

@@ -1,5 +1,6 @@
 ---
 title: "Studying Molecular mechanisms of protein functions using MD simulations (introduction)"
+excerpt: "What is MD and why it is powerful to study protein structure-function relationship?"
 collection: research
 category: projects
 date: 2030-01-01

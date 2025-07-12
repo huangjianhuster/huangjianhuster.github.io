@@ -1,9 +1,9 @@
 ---
-title: "Studying Molecular mechanisms of protein functions using MD simulations (introduction)"
+title: "Studying Molecular mechanisms of protein functions using MD simulations"
 excerpt: "What is MD and why it is powerful to study protein structure-function relationship?"
 collection: research
 category: projects
-date: 2030-01-01
+date: 2025-06-30
 ---
 
 Protein function is encoded in their dynamic motions where protein can transit between different conformational states.

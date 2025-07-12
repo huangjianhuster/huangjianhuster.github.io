@@ -3,6 +3,7 @@ title: "TMEM16F: an ion channel can scramble lipids"
 excerpt: "How can an ion channel transport lipid through the membrane bilayer? <br/><img src='/images/TMEM16F.png'  width=300><br/>"
 collection: research
 category: projects
+date: 2022-01-01
 ---
 
 **TMEM16F** plays important roles in regulation of membrane asymmetry and associated physiological processes. Extensive structure determination efforts have failed to capture a conductive/open state of the protein, hindering our understanding of TMEM16F activation and its dual functionality as both lipid scramblase and ion channel. 

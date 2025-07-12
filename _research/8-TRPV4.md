@@ -3,6 +3,7 @@ title: "TRPV4: a thermosensitive non-selective cation channel"
 excerpt: "Which domain is the thermo-sensor of TRPV4? What is the mechanism behind the thermo-sensitivity of TRPV4? <br/><img src='/images/TRPV4-2.png'  width=700><br/>"
 collection: research
 category: projects
+date: 2023-01-01
 ---
 
 **TRPV4** is a member of TRPV family and is a Ca<sup>2+</sup>-permeable nonselective cation channel. It is a fascinating non-selective ion channel (favors divalent ions more than monovalent ions) with polymodal gating behavior that can be activated by temperature, chemical ligands, osmolarity and mechanical force. While structures exist for both open and close TRPV4, the activation mechanism is still largely unknown.

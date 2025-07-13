@@ -10,8 +10,6 @@ category: Travel
 <br/>
 <div><a href="/hobbies/2024/01/trip_to_PR/" class="image" id="trip_PR"><img src="/images/travels/PR_1.jpg" height="250" width="300"/></a></div><br/>
 
-<!-- <div style="width:100%;text-align:center;"><br/><a href="/hobbies/2024/01/trip_to_PR/" class="image" id="trip-pr"><img src="/images/travels/PR_1.jpg" height="300" width="700"/></a><br>
-<p align="center"><b>Jian at the Castillo de San Cristóbal in the old San Juan</b></p></div> -->
 
 <p align="justify">
 We made a five-day travel plan staying in Puerto Rico. Below was our rough goings and stayings:
@@ -31,16 +29,16 @@ We made a five-day travel plan staying in Puerto Rico. Below was our rough going
 
 <hr>
 <b>2024/01/06: The old San Juan</b>
-<div style="width:100%;text-align:center;"><img src='/images/travels/PR_castle1.jpg' width=400></div>
-<p align="center"><b>the Castillo de San Cristóbal</b></p>
-<div style="width:100%;text-align:center;"><img src='/images/travels/PR_castle2.jpg' width=400></div>
-<p align="center"><b>the Castillo San Felipe del Morro</b></p>
-<div style="width:100%;text-align:center;"><img src='/images/travels/PR_castle2_2.jpg' width=400></div>
-<p align="center"><b>the Castillo San Felipe del Morro</b></p>
-<div style="width:100%;text-align:center;"><img src='/images/travels/PR_castle2_3.jpg' width=400></div>
-<p align="center"><b>the Castillo San Felipe del Morro</b></p>
-<div style="width:100%;text-align:center;"><img src='/images/travels/PR_castle2_4.jpg' width=400></div>
-<p align="center"><b>the Castillo San Felipe del Morro</b></p>
+<div style="width:100%;text-align:left;"><img src='/images/travels/PR_castle1.jpg' width=400></div>
+<p align="left"><b>the Castillo de San Cristóbal</b></p>
+<div style="width:100%;text-align:left;"><img src='/images/travels/PR_castle2.jpg' width=400></div>
+<p align="left"><b>the Castillo San Felipe del Morro</b></p>
+<div style="width:100%;text-align:left;"><img src='/images/travels/PR_castle2_2.jpg' width=400></div>
+<p align="left"><b>the Castillo San Felipe del Morro</b></p>
+<div style="width:100%;text-align:left;"><img src='/images/travels/PR_castle2_3.jpg' width=400></div>
+<p align="left"><b>the Castillo San Felipe del Morro</b></p>
+<div style="width:100%;text-align:left;"><img src='/images/travels/PR_castle2_4.jpg' width=400></div>
+<p align="left"><b>the Castillo San Felipe del Morro</b></p>
 <p align="justify">
 <b>Experience</b>:
   <br>
@@ -61,8 +59,8 @@ We made a five-day travel plan staying in Puerto Rico. Below was our rough going
 <b>2024/01/07: The EI Yunque National Forest</b>
 <br>
 <p>It's all about hiking and water activities to go to the EI Yunque National Forest. Things you need to prepare prior to the trip: buy a one-time use water shoes from walmart (~ 7$); waterproof plastic case (optional); insect repellent.</p>
-<div style="width:100%;text-align:center;"><img src='/images/travels/PR_yunque.jpg' width=400></div>
-<p align="center"><b>Water activities at the rainforest</b></p>
+<div style="width:100%;text-align:left;"><img src='/images/travels/PR_yunque.jpg' width=400></div>
+<p align="left"><b>Water activities at the rainforest</b></p>
 
 <p align="justify">
 <b>Experience</b>:
@@ -72,12 +70,12 @@ We made a five-day travel plan staying in Puerto Rico. Below was our rough going
 
 <hr>
 <b>2024/01/08: The Condado beach</b>
-<div style="width:100%;text-align:center;"><img src='/images/travels/PR_3.jpg' width=400></div>
+<div style="width:100%;text-align:left;"><img src='/images/travels/PR_3.jpg' width=400></div>
 <br>
-<div style="width:100%;text-align:center;"><img src='/images/travels/PR_5.jpg' width=400></div>
+<div style="width:100%;text-align:left;"><img src='/images/travels/PR_5.jpg' width=400></div>
 <br>
-<div style="width:100%;text-align:center;"><img src='/images/travels/PR_condado.jpg' width=400></div>
-<p align="center"><b>Jian at the Condada beach</b></p>
+<div style="width:100%;text-align:left;"><img src='/images/travels/PR_condado.jpg' width=400></div>
+<p align="left"><b>Jian at the Condada beach</b></p>
 <p align="justify">
 <b>Experience</b>:
   <br>
@@ -85,8 +83,8 @@ We made a five-day travel plan staying in Puerto Rico. Below was our rough going
 
 <hr>
 <b>2024/01/08: Riding the helicopter from the main island to the Vieques</b>
-<div style="width:100%;text-align:center;"><img src='/images/travels/PR_helicopter.jpg' width=400></div>
-<p align="center"><b>The fun helicopter trip</b></p>
+<div style="width:100%;text-align:left;"><img src='/images/travels/PR_helicopter.jpg' width=400></div>
+<p align="left"><b>The fun helicopter trip</b></p>
 <p align="justify">
 <b>Experience</b>:
   <br>
@@ -95,18 +93,18 @@ We made a five-day travel plan staying in Puerto Rico. Below was our rough going
 
 <hr>
 <b>2024/01/08: The Vieques island</b>
-<div style="width:100%;text-align:center;"><img src='/images/travels/PR_vieques_blacksand.jpg' width=400></div>
-<p align="center"><b>Jian at The black sand beach</b></p>
-<div style="width:100%;text-align:center;"><img src='/images/travels/PR_vieques_dinner.jpg' width=400></div>
-<p align="center"><b>Sunset at the Vieques island and dinner</b></p>
-<div style="width:100%;text-align:center;"><img src='/images/travels/PR_vieques_biobay.jpg' width=400></div>
-<p align="center"><b>The biobay trip in the Vieques island</b></p>
-<div style="width:100%;text-align:center;"><img src='/images/travels/PR_vieques.jpg' width=400></div>
-<p align="center"><b>Jian at the Vieques island</b></p>
-<div style="width:100%;text-align:center;"><img src='/images/travels/PR_caracas.jpg' width=400></div>
-<p align="center"><b>Jian at the Caracas beach</b></p>
-<div style="width:100%;text-align:center;"><img src='/images/travels/PR_vieques_ferry.jpg' width=400></div>
-<p align="center"><b>Ferry port at the Vieques island</b></p>
+<div style="width:100%;text-align:left;"><img src='/images/travels/PR_vieques_blacksand.jpg' width=400></div>
+<p align="left"><b>Jian at The black sand beach</b></p>
+<div style="width:100%;text-align:left;"><img src='/images/travels/PR_vieques_dinner.jpg' width=400></div>
+<p align="left"><b>Sunset at the Vieques island and dinner</b></p>
+<div style="width:100%;text-align:left;"><img src='/images/travels/PR_vieques_biobay.jpg' width=400></div>
+<p align="left"><b>The biobay trip in the Vieques island</b></p>
+<div style="width:100%;text-align:left;"><img src='/images/travels/PR_vieques.jpg' width=400></div>
+<p align="left"><b>Jian at the Vieques island</b></p>
+<div style="width:100%;text-align:left;"><img src='/images/travels/PR_caracas.jpg' width=400></div>
+<p align="left"><b>Jian at the Caracas beach</b></p>
+<div style="width:100%;text-align:left;"><img src='/images/travels/PR_vieques_ferry.jpg' width=400></div>
+<p align="left"><b>Ferry port at the Vieques island</b></p>
 <p align="justify">
 <b>Experience</b>:
   <br>

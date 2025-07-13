@@ -14,13 +14,13 @@ category: Travel
 Thanks to my friend to accompany me with this journey. The decent amount of hiking along with the fall brezze and nice weather really made my day.
 </p>
 
-<div style="width:100%;text-align:center;"><img src='/images/travels/3_riverview_1.jpeg' width=400></div>
+<div style="width:100%;text-align:left;"><img src='/images/travels/3_riverview_1.jpeg' width=400></div>
 <br>
-<div style="width:100%;text-align:center;"><img src='/images/travels/3_riverview_2.jpeg' width=400></div>
+<div style="width:100%;text-align:left;"><img src='/images/travels/3_riverview_2.jpeg' width=400></div>
 <br>
-<div style="width:100%;text-align:center;"><img src='/images/travels/3_riverview_3.jpeg' width=400></div>
+<div style="width:100%;text-align:left;"><img src='/images/travels/3_riverview_3.jpeg' width=400></div>
 <br>
-<p align="center"><b>View from the hiking</b>
+<p align="left"><b>View from the hiking</b>
 
 
 

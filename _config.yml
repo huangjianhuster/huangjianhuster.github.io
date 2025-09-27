@@ -190,6 +190,9 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
+  resources:
+    output: true
+    permalink: /:collection/:path/
   hobbies:
     output: true
     permalink: /:collection/:path/ 
@@ -254,6 +257,13 @@ defaults:
   - scope:
       path: ""
       type: research
+    values:
+      layout: single
+      author_profile: true
+      share: true
+  - scope:
+      path: ""
+      type: resources
     values:
       layout: single
       author_profile: true

@@ -69,7 +69,7 @@ The most common kind of turn, the -turn, consists of four residues and allows th
 Glycine and proline are commonly present in -turns. Glycine’s conformational flexibility allows it to fit into the tight turn. Proline’s steric constraints are also well suited to the -turn.
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/huangjianhuster/images/main/obsidian_images/20250805135819777.png" alt="turn" style="width: 25%; height: auto;" />
+<img src="https://raw.githubusercontent.com/huangjianhuster/images/main/obsidian_images/20250805135819777.png" alt="turn" style="width: 50%; height: auto;" />
 </p>
 
 ## 1.4 conformational preferences of amino acids

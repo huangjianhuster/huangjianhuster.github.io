@@ -12,9 +12,9 @@ The **DSSP** algorithm was originally described in the following paper:
 
 > Kabsch W, Sander C (1983). “Dictionary of protein secondary structure: pattern recognition of hydrogen-bonded and geometrical features”. Biopolymers 22 (12): 2577-637. doi:10.1002/bip.360221211
 
-Please also check another algorithm **STRIDE**: [[STRIDE for secondary structure]].
+Please also check another algorithm **STRIDE** for secondary structure analysis: [STRIDE for secondary structure](https://huang-jian.com/resources/03_SecondaryStructureAnalysis1/).
 
-# 1. Input
+# 1. For starts
 - The algorithm takes **atomic coordinates** of a protein (N, Cα, C, O atoms) from a PDB file or trajectory frame.
 - DSSP primarily focuses on **backbone atoms** to determine the local geometry.
 

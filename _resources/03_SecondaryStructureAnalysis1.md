@@ -59,7 +59,7 @@ However, it is worth noticing that there are some variations on the helical stru
 - The polypeptide chains that comprise antiparallel pleated sheets tend to have alternating hydrophilic and hydrophobic residues, so that hydrophobic side chains tend to be present on one side of the sheet and hydrophilic residues on the other.
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/huangjianhuster/images/main/obsidian_images/20250805133449618.png" alt="sheet" style="width: 75%; height: auto;" />
+<img src="https://raw.githubusercontent.com/huangjianhuster/images/main/obsidian_images/20250805133449618.png" alt="sheet" style="width: 90%; height: auto;" />
 </p>
 
 ## 1.3 $\beta$-turn

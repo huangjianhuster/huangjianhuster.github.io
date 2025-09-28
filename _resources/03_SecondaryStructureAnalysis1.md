@@ -23,15 +23,16 @@ Backbone dihedrals and Ramachandran plot:
 
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/huangjianhuster/images/main/obsidian_images/20250805130438754.png" alt="backbone2" style="width: 50%; height: auto;" />
+<img src="https://raw.githubusercontent.com/huangjianhuster/images/main/obsidian_images/20250805130438754.png" alt="backbone2" style="width: 25%; height: auto;" />
 </p>
 
 The plenary peptide bond can rotate around $N-C\alpha$ bonds (referred as the phi or $\phi$ dihedral angle) and also $C\alpha-C$ bonds (referred as the psi or $\psi$ dihedral angle). 
 
-Statistically, to avoid steric clashes, protein backbone Ramachandran plot should be like the following:
+Statistically, to avoid steric clashes, protein backbone Ramachandran plot (when plotting the $\phi$ and $\psi$ dihedrals of residues as the x and y-axis) should be like the following:
 
-![](https://raw.githubusercontent.com/huangjianhuster/images/main/obsidian_images/20250805131058949.png)
-
+<p align="center">
+<img src="https://raw.githubusercontent.com/huangjianhuster/images/main/obsidian_images/20250805131058949.png" alt="Ramachandran plot" />
+</p>
 
 ## 1.1 helix
 - In an alpha helix, the carbonyl oxygen atom of each residue (n) accepts a hydrogen bond from the amide nitrogen four residues further along (n+4) in the sequence
@@ -40,11 +41,16 @@ Statistically, to avoid steric clashes, protein backbone Ramachandran plot shoul
 - It would take a helix *20* residues long to span a distance of 30 Å, the thickness of the hydrophobic portion of a lipid bilayer
 - Alpha helices can be right-handed (clockwise spiral staircase) or left-handed (counterclockwise), but because all amino acids except glycine in proteins have the L-configuration, steric constraints favor the *right-handed helix*, as the Ramachandran plot indicates
 
-![](https://raw.githubusercontent.com/huangjianhuster/images/main/obsidian_images/20250805132646510.png)
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/huangjianhuster/images/main/obsidian_images/20250805132646510.png" alt="helix" />
+</p>
 
 However, it is worth noticing that there are some variations on the helical structures:
 
-![](https://raw.githubusercontent.com/huangjianhuster/images/main/obsidian_images/20250805132848456.png)
+<p align="center">
+<img src="https://raw.githubusercontent.com/huangjianhuster/images/main/obsidian_images/20250805132848456.png" alt="helix variations" />
+</p>
 
 ## 1.2 sheet
 - Parallel sheets are always buried and small parallel sheets almost never occur. 
@@ -52,8 +58,9 @@ However, it is worth noticing that there are some variations on the helical stru
 - antiparallel sheets are more stable, which is consistent with their hydrogen bonds being more linear.
 - The polypeptide chains that comprise antiparallel pleated sheets tend to have alternating hydrophilic and hydrophobic residues, so that hydrophobic side chains tend to be present on one side of the sheet and hydrophilic residues on the other.
 
-![](https://raw.githubusercontent.com/huangjianhuster/images/main/obsidian_images/20250805133449618.png)
-
+<p align="center">
+<img src="https://raw.githubusercontent.com/huangjianhuster/images/main/obsidian_images/20250805133449618.png" alt="sheet" />
+</p>
 
 ## 1.3 $\beta$-turn
 
@@ -61,13 +68,15 @@ The most common kind of turn, the -turn, consists of four residues and allows th
 
 Glycine and proline are commonly present in -turns. Glycine’s conformational flexibility allows it to fit into the tight turn. Proline’s steric constraints are also well suited to the -turn.
 
-![](https://raw.githubusercontent.com/huangjianhuster/images/main/obsidian_images/20250805135819777.png)
-
+<p align="center">
+<img src="https://raw.githubusercontent.com/huangjianhuster/images/main/obsidian_images/20250805135819777.png" alt="turn" />
+</p>
 
 ## 1.4 conformational preferences of amino acids
 
-![](https://raw.githubusercontent.com/huangjianhuster/images/main/obsidian_images/20250805133629041.png)
-
+<p align="center">
+<img src="https://raw.githubusercontent.com/huangjianhuster/images/main/obsidian_images/20250805133629041.png" alt="conformational preference" />
+</p>
 
 # 2. The STRIDE algorithm
 STRIDE uses **3D coordinates** from PDB files or MD snapshots, like DSSP. It looks at **backbone atoms (N, Cα, C, O)** as well as **side-chain Cβ atoms** for additional geometrical information. Like DSSP, STRIDE identifies **backbone hydrogen bonds**. But STRIDE uses a **different energy function** that accounts for bond distances and angles more explicitly. Hydrogen bonds are **scored energetically**, not just via a cutoff threshold, making it slightly more sensitive to subtle H-bond patterns.
@@ -107,6 +116,8 @@ Besides, check the `vmd_stride.tcl` in my github repo [link](https://github.com/
 
 Below is an example of me using DSSP and STRIDE for a series of MD trajectory with a focus on the residue index `205:220`.
 
-![](https://raw.githubusercontent.com/huangjianhuster/images/main/obsidian_images/20250925105053102.png)
+<p align="center">
+<img src="https://raw.githubusercontent.com/huangjianhuster/images/main/obsidian_images/20250925105053102.png" alt="comparison" />
+</p>
 
 The results largely look similar, though STRIDE overall emphasizes helicity a little bit.

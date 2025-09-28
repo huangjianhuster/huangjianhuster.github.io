@@ -3,14 +3,14 @@ title: "Secondary structure analysis using STRIED in VMD"
 excerpt: "use the STRIDE algorithm to assign helix, sheet and coil to protein structures or trajectories"
 collection: resources
 category: computational biophysics
-order: 2
+order: 3
 ---
 
 **STRIDE** is a widely used secondary structure assignment tool for protein structures. This algorithm was first reported in:
 
 > Frishman D, Argos P. [Knowledge-Based Protein Secondary Structure Assignment](https://webclu.bio.wzw.tum.de/stride/stride.pdf) Proteins: Structure, Function, and Genetics 23:566-579 (1995)
 
-Please also check [[DSSP for secondary structure calculation]].
+Please also check [Secondary structure analysis using DSSP](https://huang-jian.com/resources/04_SecondaryStructureAnalysis2).
 
 # 1. Input
 - STRIDE uses **3D coordinates** from PDB files or MD snapshots, like DSSP.
@@ -57,10 +57,9 @@ $$
 
 
 # 7. use STRIDE in MD trajectory
-Check the following paper (which introduces a VMD plugin to use STRIDE to calculate secondary structures for a trajectory):
+`VMD` has the `TimeLine` plugin for analyzing secondary structures via STRIDE.
 
-> https://pmc.ncbi.nlm.nih.gov/articles/PMC4166777/
-
+Besides, check the `vmd_stride.tcl` in this [link](https://github.com/huangjianhuster/toolbox/tree/main/TrajAnalysis/SecondaryStructureAnalysis).
 
 # 8. Comparison with DSSP 
 

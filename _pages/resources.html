@@ -12,8 +12,16 @@ author_profile: true
 {% for category in group_names %}
   {% assign posts = group_items[forloop.index0] | sort: "order" %}
   <h2 id="{{ category | slugify }}" class="archive__subtitle">{{ category }}</h2>
-  {% for post in posts %}
+<!--  
+    {% for post in posts %}
     {% include archive-single.html %}
   {% endfor %}
+    {% for post in posts %}
+ -->
+    <h3>
+        {{ post.order }}. <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      </h3>
+    {% endfor %}
+  
 {% endfor %}
 

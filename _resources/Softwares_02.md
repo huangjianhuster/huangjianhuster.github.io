@@ -1,9 +1,9 @@
 ---
-layout: archive
 title: "obsidian practices"
+collection: resources
 permalink: /obsidian_practices/
 author_profile: true
-catagory: softwares
+category: softwares
 order: 2
 ---
 

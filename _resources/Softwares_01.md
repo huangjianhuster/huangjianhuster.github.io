@@ -1,9 +1,9 @@
 ---
-layout: archive
 title: "Matplotlib practices"
+collection: resources
 permalink: /matplotlib_practices/
 author_profile: true
-catagory: softwares
+category: softwares
 order: 1
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Github Repositories"
-excerpt: "Contact frequency analysis and visualization for MD simulation trajectories"
+title: "Secondary structure analysis using STRIED in VMD"
+excerpt: "use the STRIDE algorithm to assign helix, sheet and coil to protein structures or trajectories"
 collection: resources
 category: computational biophysics
 order: 2

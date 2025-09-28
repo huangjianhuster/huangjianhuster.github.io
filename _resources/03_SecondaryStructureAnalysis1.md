@@ -18,12 +18,12 @@ Generally speaking, protein structures have helix, $\beta$-sheet and coils as th
 
 Backbone dihedrals and Ramachandran plot:
 <p align="center">
-<img src="https://raw.githubusercontent.com/huangjianhuster/images/main/obsidian_images/20250805130344379.png" alt="backbone1" />
+<img src="https://raw.githubusercontent.com/huangjianhuster/images/main/obsidian_images/20250805130344379.png" alt="backbone1" style="width: 75%; height: auto;" />
 </p>
 
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/huangjianhuster/images/main/obsidian_images/20250805130438754.png" alt="backbone2" />
+<img src="https://raw.githubusercontent.com/huangjianhuster/images/main/obsidian_images/20250805130438754.png" alt="backbone2" style="width: 50%; height: auto;" />
 </p>
 
 The plenary peptide bond can rotate around $N-C\alpha$ bonds (referred as the phi or $\phi$ dihedral angle) and also $C\alpha-C$ bonds (referred as the psi or $\psi$ dihedral angle). 

@@ -17,9 +17,14 @@ Please also check [Secondary structure analysis using DSSP](https://huang-jian.c
 Generally speaking, protein structures have helix, $\beta$-sheet and coils as their secondary structure elements. The classification derives from the backboe dihedrals.
 
 Backbone dihedrals and Ramachandran plot:
-![](https://raw.githubusercontent.com/huangjianhuster/images/main/obsidian_images/20250805130344379.png)
+<p align="center">
+<img src="https://raw.githubusercontent.com/huangjianhuster/images/main/obsidian_images/20250805130344379.png" alt="backbone1"\>
+</p>
 
-![](https://raw.githubusercontent.com/huangjianhuster/images/main/obsidian_images/20250805130438754.png)
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/huangjianhuster/images/main/obsidian_images/20250805130438754.png" alt="backbone2"\>
+</p>
 
 The plenary peptide bond can rotate around $N-C\alpha$ bonds (referred as the phi or $\phi$ dihedral angle) and also $C\alpha-C$ bonds (referred as the psi or $\psi$ dihedral angle). 
 

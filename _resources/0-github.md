@@ -1,7 +1,7 @@
 ---
 title: "Github Repositories"
 excerpt: "My own github projects and tutorials"
-collection: Resources
+collection: resources
 category: computational biophysics
 ---
 

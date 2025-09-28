@@ -1,8 +1,8 @@
 ---
 title: "Github Repositories"
 excerpt: "My own github projects and tutorials"
-collection: resources
-category: resources
+collection: Resources
+category: computational biophysics
 ---
 
 [Machine Learning basics](https://github.com/huangjianhuster/machine_learning_basics) : Machine learning class materials, including the textbook, power point slides, homeworks and corresponding solutions.

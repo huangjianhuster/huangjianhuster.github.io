@@ -3,7 +3,7 @@ title: "Secondary structure analysis using DSSP"
 excerpt: "use the STRIDE algorithm to assign helix, sheet and coil to protein structures or trajectories"
 collection: resources
 category: computational biophysics
-order: 2
+order: 3
 ---
 
 DSSP (Dictionary of Secondary Structure of Proteins) is one of the **most widely used algorithms** for assigning secondary structures to protein residues based on a 3D structure (PDB coordinates)

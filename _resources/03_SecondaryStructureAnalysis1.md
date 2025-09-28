@@ -3,7 +3,7 @@ title: "Secondary structure analysis using STRIED in VMD"
 excerpt: "use the STRIDE algorithm to assign helix, sheet and coil to protein structures or trajectories"
 collection: resources
 category: computational biophysics
-order: 3
+order: 2
 ---
 
 **STRIDE** is a widely used secondary structure assignment tool for protein structures. This algorithm was first reported in:

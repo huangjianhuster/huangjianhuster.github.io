@@ -59,7 +59,7 @@ However, it is worth noticing that there are some variations on the helical stru
 - The polypeptide chains that comprise antiparallel pleated sheets tend to have alternating hydrophilic and hydrophobic residues, so that hydrophobic side chains tend to be present on one side of the sheet and hydrophilic residues on the other.
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/huangjianhuster/images/main/obsidian_images/20250805133449618.png" alt="sheet" />
+<img src="https://raw.githubusercontent.com/huangjianhuster/images/main/obsidian_images/20250805133449618.png" alt="sheet" style="width: 75%; height: auto;" />
 </p>
 
 ## 1.3 $\beta$-turn
@@ -69,7 +69,7 @@ The most common kind of turn, the -turn, consists of four residues and allows th
 Glycine and proline are commonly present in -turns. Glycine’s conformational flexibility allows it to fit into the tight turn. Proline’s steric constraints are also well suited to the -turn.
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/huangjianhuster/images/main/obsidian_images/20250805135819777.png" alt="turn" />
+<img src="https://raw.githubusercontent.com/huangjianhuster/images/main/obsidian_images/20250805135819777.png" alt="turn" style="width: 25%; height: auto;" />
 </p>
 
 ## 1.4 conformational preferences of amino acids
@@ -117,7 +117,7 @@ Besides, check the `vmd_stride.tcl` in my github repo [link](https://github.com/
 Below is an example of me using DSSP and STRIDE for a series of MD trajectory with a focus on the residue index `205:220`.
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/huangjianhuster/images/main/obsidian_images/20250925105053102.png" alt="comparison" />
+<img src="https://raw.githubusercontent.com/huangjianhuster/images/main/obsidian_images/20250925105053102.png" alt="comparison" style="width: 75%; height: auto;" />
 </p>
 
 The results largely look similar, though STRIDE overall emphasizes helicity a little bit.

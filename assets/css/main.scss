@@ -41,7 +41,7 @@
 @import "print";
 
 .layout--single .page__inner-wrap {
-  max-width: 1100px;  /* increase from theme default */
+  max-width: 1200px;  /* increase from theme default */
   margin: 0 auto;
   padding-left: 20px;   /* optional: reduce padding */
   padding-right: 20px;
@@ -51,11 +51,6 @@
   max-width: 100%;   /* fill inner-wrap */
 }
 
-//.layout--single .page__content {
-//  max-width: 960px;   // wider content
-//  margin: 0 auto;
-//}
-
 .layout--single pre code {
   font-size: 14px;    // larger code block text
   line-height: 1.5;
@@ -63,4 +58,34 @@
 
 .layout--single code {
   font-size: 14px;    // inline code
+}
+
+.layout--single p {
+  text-align: justify;
+}
+
+.layout--single img {
+  display: block;       /* makes images block-level */
+  margin-left: auto;    /* horizontally center */
+  margin-right: auto;
+}
+
+/* Optional: responsive max width for images */
+.layout--single img {
+  max-width: 100%;
+  height: auto;
+}
+
+.layout--single table {
+  margin-left: auto;
+  margin-right: auto;
+  border-collapse: collapse; /* optional: better table style */
+}
+
+/* Optional: style table borders */
+.layout--single table th,
+.layout--single table td {
+  border: 1px solid #ccc;
+  padding: 6px 12px;
+  text-align: left;
 }

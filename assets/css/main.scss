@@ -39,3 +39,21 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+
+
+// Custom overrides for single layout
+
+.layout--single .page__content {
+  max-width: 960px;   // wider content
+  margin: 0 auto;
+}
+
+.layout--single pre code {
+  font-size: 14px;    // larger code block text
+  line-height: 1.5;
+}
+
+.layout--single code {
+  font-size: 14px;    // inline code
+}

@@ -121,7 +121,24 @@
 }
 
 
+
+
 /* Archive page titles */
-.layout--archive h3 {
-  margin: 0.2em 0;        /* spacing between items */
+/* Resource page item titles */
+.resource-item-title {
+  font-size: 0.9rem;        /* title font size */
+  font-weight: 400;         /* boldness */
+  color: #000000;           /* title color */
+  margin-top: 0.6em;        /* space above each item */
+  margin-bottom: 0.4em;     /* space below each item */
+}
+
+.resource-item-title a {
+  text-decoration: none;    /* remove underline */
+  color: inherit;           /* same as title color */
+}
+
+.resource-item-title a:hover {
+  text-decoration: underline;
+  color: #1a0dab;           /* hover color */
 }

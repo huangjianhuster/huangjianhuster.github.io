@@ -90,20 +90,20 @@
   text-align: left;
 }
 
-/* Override when images are floated left */
+/* Floated left */
 .layout--single img[style*="float: left"],
 .layout--single img.align-left,
-.layout--single img.align-left {
-  display: inline;        /* inline allows text wrap */
+.layout--single img[align="left"] {
+  display: inline;
   float: left;
-  margin: 0.3em 1em 0.3em 0;  /* add spacing on the right */
+  margin: 0.3em 1em 0.3em 0;
 }
 
-/* Override when images are floated right */
+/* Floated right */
 .layout--single img[style*="float: right"],
 .layout--single img.align-right,
-.layout--single img.align-right {
+.layout--single img[align="right"] {
   display: inline;
   float: right;
-  margin: 0.3em 0 0.3em 1em;  /* add spacing on the left */
+  margin: 0.3em 0 0.3em 1em;
 }

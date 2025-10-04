@@ -93,20 +93,27 @@
 /* Floated left */
 .layout--single img[style*="float: left"],
 .layout--single img.align-left,
+.layout--single img.img-left,
 .layout--single img[align="left"] {
   display: inline;
   float: left;
-  margin: 0.1em 1em 0.3em 0;
+  margin: 0.2em 1em 0.3em 0;
   vertical-align: top;
 }
 
 /* Floated right */
 .layout--single img[style*="float: right"],
 .layout--single img.align-right,
+.layout--single img.img-right,
 .layout--single img[align="right"] {
   display: inline;
   float: right;
-  margin: 0.1em 0 0.3em 1em;
+  margin: 0.2em 0 0.3em 1em;
   vertical-align: top;
 }
 
+.layout--single .page__content h1 + p,
+.layout--single .page__content h2 + p,
+.layout--single .page__content h3 + p {
+  margin-top: 0.2em; /* distance from heading to first paragraph */
+}

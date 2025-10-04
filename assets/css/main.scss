@@ -89,3 +89,19 @@
   padding: 6px 12px;
   text-align: left;
 }
+
+/* Override when images are floated left */
+.layout--single img[style*="float: left"],
+.layout--single img.align-left {
+  display: inline;        /* inline allows text wrap */
+  float: left;
+  margin: 0.3em 1em 0.3em 0;  /* add spacing on the right */
+}
+
+/* Override when images are floated right */
+.layout--single img[style*="float: right"],
+.layout--single img.align-right {
+  display: inline;
+  float: right;
+  margin: 0.3em 0 0.3em 1em;  /* add spacing on the left */
+}

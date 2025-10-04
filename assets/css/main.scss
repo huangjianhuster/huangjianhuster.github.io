@@ -97,6 +97,7 @@
   display: inline;
   float: left;
   margin: 0.3em 1em 0.3em 0;
+  vertical-align: top;
 }
 
 /* Floated right */
@@ -106,4 +107,5 @@
   display: inline;
   float: right;
   margin: 0.3em 0 0.3em 1em;
+  vertical-align: top;
 }

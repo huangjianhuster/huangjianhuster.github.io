@@ -40,6 +40,7 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+
 .layout--single .page__inner-wrap {
   max-width: 1200px;  /* increase from theme default */
   margin: 0 auto;
@@ -60,6 +61,7 @@
   font-size: 14px;    // inline code
 }
 
+.layout--archive p,
 .layout--single p {
   text-align: justify;
 }

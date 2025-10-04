@@ -119,3 +119,9 @@
 .layout--single .page__content h3 + p {
   margin-top: 0.2em; /* distance from heading to first paragraph */
 }
+
+
+/* Archive page titles */
+.layout--archive h3 {
+  margin: 0.2em 0;        /* spacing between items */
+}

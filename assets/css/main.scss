@@ -92,6 +92,7 @@
 
 /* Override when images are floated left */
 .layout--single img[style*="float: left"],
+.layout--single img.align-left,
 .layout--single img.align-left {
   display: inline;        /* inline allows text wrap */
   float: left;
@@ -100,6 +101,7 @@
 
 /* Override when images are floated right */
 .layout--single img[style*="float: right"],
+.layout--single img.align-right,
 .layout--single img.align-right {
   display: inline;
   float: right;

@@ -64,9 +64,9 @@ However, it is worth noticing that there are some variations on the helical stru
 
 ## 1.3 $\beta$-turn
 
-The most common kind of turn, the -turn, consists of four residues and allows the polypeptide chain to reverse direction. The carbonyl oxygen of the first residue in a -turn forms a hydrogen bond with the amino group of the fourth residue.
+The most common kind of turn, the $\beta$-turn, consists of four residues and allows the polypeptide chain to reverse direction. The carbonyl oxygen of the first residue in a  $\beta$-turn forms a hydrogen bond with the amino group of the fourth residue.
 
-Glycine and proline are commonly present in -turns. Glycine’s conformational flexibility allows it to fit into the tight turn. Proline’s steric constraints are also well suited to the -turn.
+Glycine and proline are commonly present in $\beta$-turns. Glycine’s conformational flexibility allows it to fit into the tight turn. Proline’s steric constraints are also well suited to the  $\beta$-turn.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/huangjianhuster/images/main/obsidian_images/20250805135819777.png" alt="turn" style="width: 50%; height: auto;" />

@@ -1,0 +1,6 @@
+# Defines the display order of research categories on the Research page.
+# Add new categories here in the desired position.
+- Machine learning and deep learning
+- Ion channels
+- Protein signaling and engineering
+- MD basics

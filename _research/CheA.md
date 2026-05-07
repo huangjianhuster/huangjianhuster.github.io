@@ -2,11 +2,10 @@
 title: "Dynamic Domain Interactions Encode CheA Autophosphorylation Mechanisms"
 excerpt: "Coarse-grained simulations reveal how the phosphorylatable P1 domain docks onto the kinase P4 domain in multiple productive and nonproductive modes to regulate CheA autophosphorylation. <br/><img src='/images/research_images/CheA_fig1.png' width=500><br/>"
 collection: research
-category: Protein signaling
+category: Protein signaling and engineering
 date: 2026-02-17
 order: 1
 ---
-
 **CheA** is the central histidine kinase of the bacterial two-component chemotaxis signaling system. Upon activation by the chemoreceptor–CheW–CheA ternary complex, CheA autophosphorylates the conserved His48 on its P1 (phosphorylatable) domain. This phosphoryl group is subsequently transferred to the response regulator CheY, ultimately controlling flagellar rotation and swimming behavior. Despite decades of structural and biochemical study, the molecular mechanism by which the flexible P1 domain productively engages the kinase P4 domain — and how this is regulated by ATP binding and P1/P1′ dimerization — has remained poorly understood.
 
 *[Huang, Wahlbeck Lu-Diaz, Thompson & Chen, Biophys. J. 125, 1125–1138 (2026). [DOI](https://doi.org/10.1016/j.bpj.2026.01.015)]*

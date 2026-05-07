@@ -121,7 +121,7 @@ proc channel {} {
 
 
 # 4. Use command to control view in the graphics window
-I recommend not to use mouse to control the view in the graphics window. Instead, use command to do rotation, translation etc. is controllable and replicable. We can always us `ctrl`+`+` to return to the original view.
+I recommend not to use mouse to control the view in the graphics window. Instead, use command to do rotation, translation etc. is controllable and replicable. We can always use `ctrl`+`+` to return to the original view.
 ```
 # rotation
 rotate x by 90

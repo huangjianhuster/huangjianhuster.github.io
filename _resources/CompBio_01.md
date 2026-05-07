@@ -6,4 +6,4 @@ category: computational biophysics
 order: 1
 ---
 
-[contact frequency analysis](https://github.com/huangjianhuster/contact_frq_network) : scripts for analyzing contact frequencies and contacts-based dynamic network for a give trajectory  
+[contact frequency analysis](https://github.com/huangjianhuster/contact_frq_network) : scripts for analyzing contact frequencies and contacts-based dynamic network for a given trajectory  

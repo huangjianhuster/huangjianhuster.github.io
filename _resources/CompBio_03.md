@@ -1,5 +1,5 @@
 ---
-title: "Secondary structure analysis using STRIED in VMD"
+title: "Secondary structure analysis using STRIDE in VMD"
 excerpt: "use the STRIDE algorithm to assign helix, sheet and coil to protein structures or trajectories"
 collection: resources
 category: computational biophysics
@@ -13,7 +13,7 @@ Please also check [Secondary structure analysis using DSSP](https://huang-jian.c
 
 # 1. For starters
 
-Generally speaking, protein structures have helix, $\beta$-sheet and coils as their secondary structure elements. The classification derives from the backboe dihedrals.
+Generally speaking, protein structures have helix, $\beta$-sheet and coils as their secondary structure elements. The classification derives from the backbone dihedrals.
 
 Backbone dihedrals and Ramachandran plot:
 
@@ -25,7 +25,7 @@ Backbone dihedrals and Ramachandran plot:
 <img src="https://raw.githubusercontent.com/huangjianhuster/images/main/obsidian_images/20250805130438754.png" alt="backbone2" style="width: 25%; height: auto;" />
 </p>
 
-The plenary peptide bond can rotate around $N-C\alpha$ bonds (referred as the phi or $\phi$ dihedral angle) and also $C\alpha-C$ bonds (referred as the psi or $\psi$ dihedral angle).
+The planar peptide bond can rotate around $N-C\alpha$ bonds (referred as the phi or $\phi$ dihedral angle) and also $C\alpha-C$ bonds (referred as the psi or $\psi$ dihedral angle).
 
 Statistically, to avoid steric clashes, protein backbone Ramachandran plot (when plotting the $\phi$ and $\psi$ dihedrals of residues as the x and y-axis) should be like the following:
 

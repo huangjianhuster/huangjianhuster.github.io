@@ -34,7 +34,7 @@ https://docs.mdanalysis.org/1.0.1/documentation_pages/overview.html
 # also check the following link for definition of Rg
 https://www.youtube.com/watch?v=U15FVwQ8ynQ
 
-# the end-to-end distance is simply a measurement of the distance between the N-termus and the C-termus of an IDP chain
+# the end-to-end distance is simply a measurement of the distance between the N-terminus and the C-terminus of an IDP chain
 ```
 
 We can also use the above-installed *EnsembleAnalysis* package (which internally also uses MDanalysis functions for $R_{g}$ and end-to-end distance calculations):
@@ -52,7 +52,7 @@ rg = en.get_rg()
 e2e = en.get_end2end()
 ```
 
-The `rg` matrix have a shape of `(4, frames)`, where the rows are radius of gyration for the whole, projection on x-axis, on y-axis and on z-axis respectively. Usually the first row is the $R_{g}$ you want to report and plot.
+The `rg` matrix has a shape of `(4, frames)`, where the rows are radius of gyration for the whole, projection on x-axis, on y-axis and on z-axis respectively. Usually the first row is the $R_{g}$ you want to report and plot.
 
 The `e2e` will be an array with length of `frames`. Each value corresponds to the end2end value for the frame.
 
@@ -61,7 +61,7 @@ The `e2e` will be an array with length of `frames`. Each value corresponds to th
 
 
 # Secondary structure analysis
-As we are sampling IDP conformations using MD simulations, transient secondary structures, such as $\alpha$-helix, $\beta$-sheet, will be sampled in each frames. This analysis allows us to see the percentages of those secondary structures for each residue location.
+As we are sampling IDP conformations using MD simulations, transient secondary structures, such as $\alpha$-helix, $\beta$-sheet, will be sampled in each frame. This analysis allows us to see the percentages of those secondary structures for each residue location.
 
 ```python
 ss = en.get_ss()

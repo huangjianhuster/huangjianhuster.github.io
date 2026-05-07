@@ -11,7 +11,7 @@ category: Travel
 <div><a href="/hobbies/2024/10/riverview/" class="image" id="researchfest"><img src="/images/travels/3_riverview_0.jpeg" height="250" width="300"/></a></div><br/>
 
 <p align="justify">
-Thanks to my friend to accompany me with this journey. The decent amount of hiking along with the fall brezze and nice weather really made my day.
+Thanks to my friend to accompany me with this journey. The decent amount of hiking along with the fall breeze and nice weather really made my day.
 </p>
 
 <div style="width:100%;text-align:left;"><img src='/images/travels/3_riverview_1.jpeg' width=400></div>

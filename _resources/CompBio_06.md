@@ -1,13 +1,13 @@
 ---
-title: "Markvos models for biomolecule conformational transistions sampled from MD"
+title: "Markov State Models for biomolecule conformational transitions sampled from MD"
 collection: resources
 category: computational biophysics
 order: 6
 ---
 
-MD simulations allow us to characterize protein structure, dynamics and function in the all-atom and femto-second spatiotemporal resolution. However, interpreting data of high dimensionality, such as MD, to infer the inherent transitions between different metastable conformational states, can be tricky. **Markob state model** (MSM) provides a generally accepted state-of-the-art dynamics analysis method.
+MD simulations allow us to characterize protein structure, dynamics and function in the all-atom and femto-second spatiotemporal resolution. However, interpreting data of high dimensionality, such as MD, to infer the inherent transitions between different metastable conformational states, can be tricky. **Markov state model** (MSM) provides a generally accepted, state-of-the-art dynamics analysis method.
 
-**Markovanity**: the basic assumption of the Markov property is that the probability of **future state** only depends on the present state, not the history:
+**Markovianity**: the basic assumption of the Markov property is that the probability of **future state** only depends on the present state, not the history:
 
 $$
 P(X_{t+\tau} \mid X_t) \;=\; P(X_{t+\tau} \mid X_t, X_{t-\tau}, X_{t-2\tau}, \dots)
@@ -18,7 +18,7 @@ $$
 **Assumption**: the MD data being used to construct the MSM should be sufficiently sampled to cover the conformational states and well-characterized by the pre-defined collective variables. 
 
 **Goal of MSM**:
-- explain the mechanisms of biomolecular processes in terms of transitions between functionally relevant and structually well-defined metastable states
+- explain the mechanisms of biomolecular processes in terms of transitions between functionally relevant and structurally well-defined metastable states
 - the lag time $\tau_{lag}$ derived from the transition matrix defines the time resolution. It needs to be shorter than the fastest dynamics of interest
 - the conformational ensembles (defined by the states) represent spatial resolution. They need to be sufficient to account for the relevant microscopic steps of the functional motion.
 - however, short $\tau_{lag}$  while improving time resolution have undesirable effect of shortening timescale of MSM, resulting in loss of Markovianity.
@@ -27,7 +27,7 @@ $$
 
 # 1. The general flow of MSM
 - **Featurization**: selection of suitable input coordinates
-- **dimensionality reduction**: from the high dimensional feature space to a low dimensional space of collective variables. Methods usually being used: **PCA**, ****
+- **dimensionality reduction**: from the high dimensional feature space to a low dimensional space of collective variables. Methods commonly used: **PCA**, **TICA**
 - **geometrical clustering**: from the low dimensional data into microstates
 - **dynamical clustering**: from the microstates into metastable conformational state
 - **Evaluation**: quality of the resulting transition matrix
@@ -67,10 +67,10 @@ Usually, this step can still result in hundreds, if not thousands, of microstate
 
 ## 1.4 Lump microstates into macrostates
 
-The idea here is to group kinetically similar miscrostates into a few metastable states. For example, the **most probable path algorithm** (MPP):
+The idea here is to group kinetically similar microstates into a few metastable states. For example, the **most probable path algorithm** (MPP):
 - starting with clustered microstates, the method first calculate the transition matrix using a pre-defined $\tau_{lag}$ (say, 10 ns)
 - If a self-transition probability of a given microstate is lower than a certain metastability criterion $Q_{min} \in (0,1]$, the microstate will be lumped with the state to which the transition probability is the highest.
-- Repeat the above step for increasing $Q_{min}$, as the microstates slowly lump into bigger **macrostate**, we can then choose an appropriate $Q_{min}$ for an appropriate number of matastable states (usually 5 ~ 20 macrostates).
+- Repeat the above step for increasing $Q_{min}$, as the microstates slowly lump into bigger **macrostate**, we can then choose an appropriate $Q_{min}$ for an appropriate number of metastable states (usually 5 ~ 20 macrostates).
 
 
 **The role of lag time $\tau_{lag}$**

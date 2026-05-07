@@ -13,7 +13,7 @@ The **DSSP** algorithm was originally described in the following paper:
 
 Please also check another algorithm **STRIDE** for secondary structure analysis: [STRIDE for secondary structure](https://huang-jian.com/resources/03_SecondaryStructureAnalysis1/).
 
-# 1. For starts
+# 1. For starters
 
 - The algorithm takes **atomic coordinates** of a protein (N, Cα, C, O atoms) from a PDB file or trajectory frame.
 - DSSP primarily focuses on **backbone atoms** to determine the local geometry.

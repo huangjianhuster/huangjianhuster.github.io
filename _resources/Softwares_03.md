@@ -18,7 +18,7 @@ access the two packages from the following links and choose one you like:
 1. [miniconda](https://www.anaconda.com/docs/getting-started/miniconda/main)
 2. [miniforge/mamba](https://github.com/conda-forge/miniforge)
 
-Follow their instructions for installation. Personally I use `mamba`. All commands you run use `conda` can be run by simply replacing `conda` with `mamba`.
+Follow their instructions for installation. Personally I use `mamba`. All commands you run using `conda` can be run by simply replacing `conda` with `mamba`.
 
 # Manage environment
 After installation, the `mamba` or `conda` comes with an initial `base` environment. Of note, we almost never mess with the clean `base` environment. Instead, we create our own with:
@@ -32,7 +32,7 @@ mamba create -n bio python=3.12
 conda create -n bio python=3.12
 ```
 
-For the python version, you usually needs to decide on what version is compatibale with most packages you are going to install in the created environment. If you are not sure, try not using the latest and the oldest python versions. For example, the current latest python is 3.13 at the time of writing this note. I would go for 3.10, 3.11 or 3.12.
+For the python version, you usually need to decide on what version is compatible with most packages you are going to install in the created environment. If you are not sure, try not using the latest and the oldest python versions. For example, the current latest python is 3.13 at the time of writing this note. I would go for 3.10, 3.11 or 3.12.
 
 We can manage and remove an environment with:
 

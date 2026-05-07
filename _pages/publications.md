@@ -1,10 +1,9 @@
 ---
 layout: archive
-title: "List of Publications"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
-
 <!-- reversed order of the publication list; this is an easy to do this-->
 
 <!-- citation style: ACS Guide 2022 revision (Zotero)-->
@@ -26,24 +25,21 @@ Barethiya, S.; <b>Huang, J.</b>; Stumpf, C.; Liu, X.; Guan, H.; Chen, J. Overcom
 <b>Huang, J.</b>; Lu-Diaz, K. W.; Thompson, L.; Chen, J. Dynamic Domain Interactions Encode Possible CheA Autophosphorylation Mechanisms Revealed by Coarse-Grained Simulations. Biophys J 2026, 125 (4), 1125–1138. <a href="https://doi.org/10.1016/j.bpj.2026.01.015">DOI</a>.
 </li>
 
-
 <hr>
 <h2 style='margin-top:0'>2025</h2>  
 <li>
 Nguyen, B. V.; Özden, C.; Dong, K.; Koc, O. C.; Torres-Ocampo, A. P.; Dziedzic, N.; Flaherty, D.; <b>Huang, J.</b>; Sankara, S.; Abromson, N. L.; Tomchick, D. R.; Fissore, R. A.; Chen, J.; Garman, S. C.; Stratton, M. M. A Domain-Swapped CaMKII Conformation Facilitates Linker-Mediated Allosteric Regulation. Nat Commun 2025, 16 (1), 8461. <a href="https://doi.org/10.1038/s41467-025-63249-w">DOI</a>.
-</li> 
+</li>
 
 <li>
 <b>Huang, J.</b>; Chen, J. PIP2 Regulation of TRPV4 Channels: Binding Sites and Dynamic Coupling. Biophysical Journal 2025, 124 (18), 3037–3048. <a href="https://doi.org/10.1016/j.bpj.2025.08.006">DOI</a>.
 </li>
 
-
 <hr>
 <h2 style='margin-top:0'>2024</h2>  
 <li>
 Burtscher, V.; Mount, J.; <b>Huang, J.</b>; Cowgill, J.; Chang, Y.; Bickel, K.; Chen, J.; Yuan, P.; Chanda, B. Structural Basis for Hyperpolarization-Dependent Opening of Human HCN1 Channel. Nat Commun 2024, 15 (1), 5216. <a href="https://doi.org/10.1038/s41467-024-49599-x">DOI</a>.
-</li>  
-
+</li>
 
 <hr>
 <h2 style='margin-top:0'>2023</h2>

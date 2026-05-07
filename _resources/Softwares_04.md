@@ -13,7 +13,7 @@ set style line 1 lc rgb "#8b0000" lw 2
 set style line 2 lc -1 pt 7 ps 0.9
 ```
 
-- lc: linecolor; we can use index number (gnuolot has its own default defined colors) or rgb values
+- lc: linecolor; we can use index number (gnuplot has its own default defined colors) or rgb values
 - lw: linewidth; a float number
 - pt: point type (define marker type)
 - ps: point size (define marker size)
@@ -49,7 +49,7 @@ This part is only based on my personal habits. You can always get the full list 
 ```gnuplot
 # 1. location
 set key bottom left box
-set ket at 0.2,-1.8 # exactly control the location at point (0.2, -1.8)
+set key at 0.2,-1.8 # exactly control the location at point (0.2, -1.8)
 
 # 2. width
 set key width 1

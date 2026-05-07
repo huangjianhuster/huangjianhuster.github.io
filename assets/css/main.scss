@@ -76,6 +76,10 @@
   height: auto;
 }
 
+.archive__item-excerpt a.image {
+  display: block;
+}
+
 .archive__item-excerpt img {
   width: 500px;
   max-width: 100%;

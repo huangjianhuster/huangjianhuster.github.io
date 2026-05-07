@@ -246,6 +246,11 @@
             -ms-transform: scaleX(1);
                 transform: scaleX(1); /* reveal*/
       }
+
+      &.current {
+        color: $darker-gray;
+        font-weight: bold;
+      }
     }
   }
 

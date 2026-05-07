@@ -8,7 +8,7 @@ category: Travel
 
 <p align="justify">Hiking to the <b>Northfield Mountain Reservoir</b> with a friend.</p>
 <br/>
-<div><a href="/hobbies/2024/10/riverview/" class="image" id="researchfest"><img src="/images/travels/3_riverview_0.jpeg" height="250" width="300"/></a></div><br/>
+<div><a href="/hobbies/2024/10/riverview/" class="image" id="researchfest"><img src="/images/travels/3_riverview_0.jpeg" width="500"/></a></div><br/>
 
 <p align="justify">
 Thanks to my friend to accompany me with this journey. The decent amount of hiking along with the fall breeze and nice weather really made my day.

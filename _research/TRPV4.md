@@ -1,6 +1,6 @@
 ---
 title: "TRPV4: Gating Mechanisms and Lipid Regulation"
-excerpt: "Dissecting hydrophobic gating and PIP2-mediated regulation in the TRPV4 ion channel using atomistic simulations. <br/><a href='/research/TRPV4/' class='image'><img src='/images/research_images/TRPV4-2.png' width=700></a><br/>"
+excerpt: "Dissecting hydrophobic gating and PIP2-mediated regulation in the TRPV4 ion channel using atomistic simulations. <br/><a href='/research/TRPV4/' class='image'><img src='/images/research_images/TRPV4-2.png' width=500></a><br/>"
 collection: research
 category: Ion channels
 date: 2025-01-01

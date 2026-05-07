@@ -1,6 +1,6 @@
 ---
 title: "Prediction of infectivity-enhancing mutations of the SARS-CoV-2 virus S (spike) protein"
-excerpt: "which mutations can enhance the affinity to the cell receptor and thus present challenges for vaccine and antibody development? <br/><a href='/research/COVID19-prediction/' class='image'><img src='/images/research_images/spike.png' width=700></a><br/>"
+excerpt: "which mutations can enhance the affinity to the cell receptor and thus present challenges for vaccine and antibody development? <br/><a href='/research/COVID19-prediction/' class='image'><img src='/images/research_images/spike.png' width=500></a><br/>"
 collection: research
 category: Protein signaling and engineering 
 date: 2020-01-01

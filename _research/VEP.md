@@ -1,6 +1,6 @@
 ---
 title: "Physics-Informed Deep Learning for Protein Variant Effect Prediction"
-excerpt: "Incorporating biophysical features into deep learning overcomes extrapolation failures in protein sequence-function modeling. <br/><a href='/research/VEP/' class='image'><img src='/images/research_images/VEP_g002.png' width=700></a><br/>"
+excerpt: "Incorporating biophysical features into deep learning overcomes extrapolation failures in protein sequence-function modeling. <br/><a href='/research/VEP/' class='image'><img src='/images/research_images/VEP_g002.png' width=500></a><br/>"
 collection: research
 category: Machine learning and deep learning
 date: 2026-03-25

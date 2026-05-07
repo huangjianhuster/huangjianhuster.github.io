@@ -8,7 +8,7 @@ category: Travel
 
 <p align="justify">A trip to Puerto Rico</p>
 <br/>
-<div><a href="/hobbies/2024/01/trip_to_PR/" class="image" id="trip_PR"><img src="/images/travels/PR_1.jpg" height="250" width="300"/></a></div><br/>
+<div><a href="/hobbies/2024/01/trip_to_PR/" class="image" id="trip_PR"><img src="/images/travels/PR_1.jpg" width="500"/></a></div><br/>
 
 
 <p align="justify">

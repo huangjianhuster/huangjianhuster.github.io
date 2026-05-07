@@ -2,10 +2,9 @@
 title: "Studying Molecular mechanisms of protein functions using MD simulations"
 excerpt: "What is MD and why it is powerful to study protein structure-function relationship?"
 collection: research
-category: projects
+category: MD basics
 date: 2025-06-30
 ---
-
 Protein function is encoded in their dynamic motions where protein can transit between different conformational states.
 
 Those dynamic transitions are often coupled with other cellular components, such as ligands, lipids, partner proteins and other environmental factors. Those factors can effectively shape how proteins navigate through their conformational landscape and thus affect protein functions.
@@ -51,9 +50,7 @@ If given that we can sample infinite amount of time for a protein, the physics a
 Now it is fascinating that our perfect MD simulations (errorless and with infinite amount of integration time) eventually give us the conformational samplings and all the important transitions dictating protein functions. Those dynamics ("movies") allow us to extract macroscopic observables for experimental testing, make predictions and generate further hypothesis. This has proven to be extremely useful for molecular mechanism studies as well as designing molecules possibly exerting certain perturbations.
 
 There are caveats and limitations, however, for MD to sample protein conformations. As you are already aware of during the above discussion of the principle of MD, MD simulations will:
+
 - inevitably have integration errors of course (though now some advanced algorithm can ensure symplectic, meaning error is somewhat conserved and will not scale up as simulation time grows)
-- difficult to sample all possible states or difficult to ensure ergodicity. Thus convergence has to be thoroughly assessed before making concrete conclusions. However, it does not mean the insufficient sampling is useless. If relative probabilities of important states have been sampled and converged or timescale for quickly converged macroscopic observables has been reached, we can still get reasonable estimations of thermodynamic properties. 
+- difficult to sample all possible states or difficult to ensure ergodicity. Thus convergence has to be thoroughly assessed before making concrete conclusions. However, it does not mean the insufficient sampling is useless. If relative probabilities of important states have been sampled and converged or timescale for quickly converged macroscopic observables has been reached, we can still get reasonable estimations of thermodynamic properties.
 - inevitably have systematic errors from the inaccuracies of the force field. I deliberately did not talk about the force field previously, again because it is another complicated topic and people now are still developing more accurate force fields. In principle, a force field is basically a mathematic function that accounts for all inter-atomic interactions. As you may already imagine, this is intrinsically hard and limited by current understanding of quantum mechanics for those inter-atomic forces. I will not go deeper to discuss force field development here but encourage readers to read reviews for this matter (it is also very interesting too! and imagine how fascinating it would be if one day we  have an universal force field for accurately presenting every chemical matter, biological and materials systems).
-
-
-

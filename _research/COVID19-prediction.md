@@ -1,10 +1,10 @@
 ---
 title: "Prediction of infectivity-enhancing mutations of the SARS-CoV-2 virus S (spike) protein"
-excerpt: "which mutations can enhance the affinity to the cell receptor and thus present challenges for vaccine and antibody development? <br/><img src='/images/research_images/spike.png'  width=700><br/>"
+excerpt: "which mutations can enhance the affinity to the cell receptor and thus present challenges for vaccine and antibody development? <br/><a href='/research/COVID19-prediction/' class='image'><img src='/images/research_images/spike.png' width=700></a><br/>"
 collection: research
 category: Protein signaling and engineering 
 date: 2020-01-01
-order: 1
+order: 2
 ---
 The RBD (receptor binding domain) of the **SARS-CoV-2 virus S (spike) protein** mediates viral cell attachment and serves as a promising target for therapeutics development. Mutations on the S-RBD may alter its affinity to the cell receptor and affect the potency of vaccines and antibodies.
 

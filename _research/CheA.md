@@ -1,6 +1,6 @@
 ---
 title: "Dynamic Domain Interactions Encode CheA Autophosphorylation Mechanisms"
-excerpt: "Coarse-grained simulations reveal how the phosphorylatable P1 domain docks onto the kinase P4 domain in multiple productive and nonproductive modes to regulate CheA autophosphorylation. <br/><img src='/images/research_images/CheA_fig1.png' width=500><br/>"
+excerpt: "Coarse-grained simulations reveal how the phosphorylatable P1 domain docks onto the kinase P4 domain in multiple productive and nonproductive modes to regulate CheA autophosphorylation. <br/><a href='/research/CheA/' class='image'><img src='/images/research_images/CheA_fig1.png' width=500></a><br/>"
 collection: research
 category: Protein signaling and engineering
 date: 2026-02-17

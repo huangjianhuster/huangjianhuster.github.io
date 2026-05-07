@@ -69,13 +69,15 @@
 }
 
 .layout--single img {
-  display: block;       /* makes images block-level */
-  margin-left: auto;    /* horizontally center */
+  display: block;
+  margin-left: auto;
   margin-right: auto;
+  max-width: 100%;
+  height: auto;
 }
 
-/* Optional: responsive max width for images */
-.layout--single img {
+.archive__item-excerpt img {
+  width: 500px;
   max-width: 100%;
   height: auto;
 }

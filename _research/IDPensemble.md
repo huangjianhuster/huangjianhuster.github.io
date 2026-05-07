@@ -1,6 +1,6 @@
 ---
 title: "AI-powered modeling for generative ensembles"
-excerpt: "How do we generate conformational ensembles of proteins using generative AI models? <br/><img src='/images/research_images/seq35.gif' width=500><br/>"
+excerpt: "How do we generate conformational ensembles of proteins using generative AI models? <br/><a href='/research/IDPensemble/' class='image'><img src='/images/research_images/seq35.gif' width=500></a><br/>"
 collection: research
 category: Machine learning and deep learning
 date: 2024-09-30

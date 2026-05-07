@@ -22,7 +22,7 @@ Barethiya, S.; <b>Huang, J.</b>; Stumpf, C.; Liu, X.; Guan, H.; Chen, J. Overcom
 </li>
 
 <li>
-<b>Huang, J.</b>; Lu-Diaz, K. W.; Thompson, L.; Chen, J. Dynamic Domain Interactions Encode Possible CheA Autophosphorylation Mechanisms Revealed by Coarse-Grained Simulations. Biophys J 2026, 125 (4), 1125–1138. <a href="https://doi.org/10.1016/j.bpj.2026.01.015">DOI</a>.
+Lu-Diaz, K. W.; <b>Huang, J.</b>; Chen, J.; Fejzo, J.; Thompson, L. K. Chemotaxis Kinase CheA Is Regulated by Modulating Interdomain Interactions. Biophysical Journal 2026. <a href="https://doi.org/10.1016/j.bpj.2026.05.001">DOI</a>.
 </li>
 
 <hr>

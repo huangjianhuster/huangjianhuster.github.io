@@ -1,6 +1,6 @@
 ---
 title: "TMEM16F: Activation Mechanism and Dual Ion/Lipid Permeation Pathways"
-excerpt: "How does TMEM16F open its pore to conduct both ions and lipids? <br/><img src='/images/research_images/TMEM16F.png' width=300><br/>"
+excerpt: "How does TMEM16F open its pore to conduct both ions and lipids? <br/><a href='/research/TMEM16F/' class='image'><img src='/images/research_images/TMEM16F.png' width=300></a><br/>"
 collection: research
 category: Ion channels
 date: 2022-01-01

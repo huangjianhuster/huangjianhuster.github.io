@@ -6,7 +6,6 @@ category: Machine learning and deep learning
 date: 2026-03-25
 order: 2
 ---
-
 Predicting how mutations affect protein function — so-called **variant effect prediction (VEP)** — is a central challenge in protein engineering and the study of genetic disease. Deep learning models trained on deep mutational scanning (DMS) data have shown impressive performance, but they share a critical blind spot: **extrapolation**. When asked to predict mutations at positions or of mutation types not represented in training data, purely sequence-based models fail badly. This work addresses that limitation by embedding biophysical knowledge directly into the learning pipeline.
 
 *[Barethiya, Huang, Stumpf, Liu, Guan & Chen, PLOS Comput. Biol. (2026). [DOI](https://doi.org/10.1371/journal.pcbi.1013728)]*
@@ -19,7 +18,7 @@ Predicting how mutations affect protein function — so-called **variant effect 
 
 *Protein structures and mutation coverage maps for the five benchmark proteins (GB1, Pab1, avGFP, Bgl3, Ube4b) spanning 56–501 residues and 38–98% positional coverage.*
 
-Standard deep learning models for VEP interpolate well — they reliably assign fitness scores to mutations similar to ones seen during training. But real-world applications demand more: predicting effects at positions absent from the training library (**positional extrapolation**), generalizing from single-residue variants to higher-order combinatorial mutations (**order extrapolation**), and handling novel mutation chemistries (**mutational extrapolation**). Sequence-only models consistently collapse under these conditions, often reaching near-zero correlation with experimental fitness.
+Standard deep learning models for VEP interpolate well — they reliably assign fitness scores to mutations similar to ones seen during training. But real-world applications demand more: predicting effects at positions absent from the training library (**positional extrapolation**), generalizing from single-residue variants to higher-order combinatorial mutations (**order extrapolation**), and handling novel mutations (**mutational extrapolation**). Sequence-only models consistently collapse under these conditions, often reaching near-zero correlation with experimental fitness.
 
 ---
 
@@ -42,7 +41,7 @@ These features are concatenated with sequence embeddings (one-hot or ESM-2 langu
 
 **Under random splitting** (standard benchmark), biophysics features provide modest but consistent improvements, most notably when training data is sparse (under 1,000 variants) or when sequencing quality is low — conditions where the model must lean more heavily on physically meaningful priors.
 
-**Under mutational extrapolation** (training on, e.g., single substitutions; testing on deletions/insertions):
+**Under mutational extrapolation** (training on, e.g., certain subsets of mutations; testing on mutation types not seen):
 
 <img src='/images/research_images/VEP_g006.png' width=700>
 
@@ -50,7 +49,7 @@ These features are concatenated with sequence embeddings (one-hot or ESM-2 langu
 
 The gains are dramatic. For avGFP, a linear model with biophysics improves from r = 0.06 to r = 0.61. CNN/GCN models reach r = 0.52–0.74. The biophysical features provide the model with transferable physical constraints that generalize across mutation types.
 
-**Under positional extrapolation** (held-out residue positions):
+**Under positional extrapolation** (training on certain positions while testing on other positions not trained on):
 
 <img src='/images/research_images/VEP_g007.png' width=700>
 

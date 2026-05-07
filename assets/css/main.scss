@@ -61,8 +61,10 @@
   font-size: 14px;    // inline code
 }
 
-.layout--archive p,
-.layout--single p {
+.archive p,
+.archive li,
+.layout--single p,
+.layout--single li {
   text-align: justify;
 }
 

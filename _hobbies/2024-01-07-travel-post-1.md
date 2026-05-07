@@ -15,7 +15,7 @@ category: Travel
 We made a five-day travel plan staying in Puerto Rico. Below was our rough goings and stayings:
 </p>
 
-<ol style="text-align: left;">
+<ol>
   <li>Arrival at the main island: (flight) <b>2024/01/05</b> afternoon, check in the Casa Isabel hotel, located in the Condoda Region of the main island;</li>
   <li>Stay in the main island: <b>2024/01/05 ~ 2024/01/08</b>, check out in the morning of 01/08;</li>
     <ul>

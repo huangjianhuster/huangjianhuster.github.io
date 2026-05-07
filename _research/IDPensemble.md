@@ -4,6 +4,7 @@ excerpt: "How do we generate conformational ensembles of proteins using generati
 collection: research
 category: Machine learning and deep learning
 date: 2024-09-30
+order: 1
 ---
 Conventional MD can help us sample protein conformations but it will be time- and resource-consuming to simulation adequately and accurately, especially for intrinsically distordered proteins (IDP). The conformational landscape of an IDP usually has many shallow "valleies" (states) and ideally one expects to sample all the conformational states and also the transitions between those states.
 

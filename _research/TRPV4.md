@@ -4,6 +4,7 @@ excerpt: "Dissecting hydrophobic gating and PIP2-mediated regulation in the TRPV
 collection: research
 category: Ion channels
 date: 2025-01-01
+order: 2
 ---
 **TRPV4** is a Ca`<sup>`2+`</sup>`-permeable nonselective cation channel with polymodal gating — it can be activated by temperature, osmotic stress, mechanical force, and chemical ligands. Despite the availability of both open- and closed-state structures, the molecular mechanisms underlying its activation and regulation remained poorly understood. Our work addresses two central questions: *How does TRPV4 gate ion flow in the closed state?* and *How does the lipid PIP2 regulate channel activity?*
 

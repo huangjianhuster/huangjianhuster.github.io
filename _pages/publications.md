@@ -4,7 +4,7 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
-<!-- reversed order of the publication list; this is an easy to do this-->
+<!-- reversed order of the publication list-->
 
 <!-- citation style: ACS Guide 2022 revision (Zotero)-->
 
@@ -62,11 +62,11 @@ Jia, Z.; <b>Huang, J.</b>; Chen, J. Activation of TMEM16F by Inner Gate Charged 
 <h2 style='margin-top:0'>2021</h2>
 
 <li>
-Xue, T.; Wu, W.; Guo, N.; Wu, C.; Huang, J.; Lai, L.; Liu, H.; Li, Y.; Wang, T.; Wang, Y. Single Point Mutations Can Potentially Enhance Infectivity of SARS-CoV-2 Revealed by in Silico Affinity Maturation and SPR Assay. RSC Adv. 2021, 11 (24), 14737–14745. <a href="https://doi.org/10.1039/D1RA00426C">DOI</a>.
+Xue, T.; Wu, W.; Guo, N.; Wu, C.; <b>Huang, J.</b>; Lai, L.; Liu, H.; Li, Y.; Wang, T.; Wang, Y. Single Point Mutations Can Potentially Enhance Infectivity of SARS-CoV-2 Revealed by in Silico Affinity Maturation and SPR Assay. RSC Adv. 2021, 11 (24), 14737–14745. <a href="https://doi.org/10.1039/D1RA00426C">DOI</a>.
 </li>
 
 <li>
-Fu, Y.; Huang, J.; Wu, Y.; Liu, X.; Zhong, F.; Wang, J. Biocatalytic Cross-Coupling of Aryl Halides with a Genetically Engineered Photosensitizer Artificial Dehalogenase. J. Am. Chem. Soc. 2021, 143 (2), 617–622. <a href="https://doi.org/10.1021/jacs.0c10882">DOI</a>.
+Fu, Y.; <b>Huang, J.</b>; Wu, Y.; Liu, X.; Zhong, F.; Wang, J. Biocatalytic Cross-Coupling of Aryl Halides with a Genetically Engineered Photosensitizer Artificial Dehalogenase. J. Am. Chem. Soc. 2021, 143 (2), 617–622. <a href="https://doi.org/10.1021/jacs.0c10882">DOI</a>.
 </li>
 
 </ol>

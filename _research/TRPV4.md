@@ -2,11 +2,11 @@
 title: "TRPV4: Gating Mechanisms and Lipid Regulation"
 excerpt: "Dissecting hydrophobic gating and PIP2-mediated regulation in the TRPV4 ion channel using atomistic simulations. <br/><a href='/research/TRPV4/' class='image'><img src='/images/research_images/TRPV4-2.png' width=500></a><br/>"
 collection: research
-category: Ion channels
+category: Molecular mechanisms of Ion channels
 date: 2025-01-01
 order: 2
 ---
-**TRPV4** is a Ca<sup>2+</sup>-permeable nonselective cation channel with polymodal gating — it can be activated by temperature, osmotic stress, mechanical force, and chemical ligands. Despite the availability of both open- and closed-state structures, the molecular mechanisms underlying its activation and regulation remained poorly understood. Our work addresses two central questions: *How does TRPV4 gate ion flow in the closed state?* and *How does the lipid PIP2 regulate channel activity?*
+**TRPV4** is a Ca`<sup>`2+`</sup>`-permeable nonselective cation channel with polymodal gating — it can be activated by temperature, osmotic stress, mechanical force, and chemical ligands. Despite the availability of both open- and closed-state structures, the molecular mechanisms underlying its activation and regulation remained poorly understood. Our work addresses two central questions: *How does TRPV4 gate ion flow in the closed state?* and *How does the lipid PIP2 regulate channel activity?*
 
 ---
 
@@ -21,7 +21,7 @@ Transmembrane ion channels are classically thought to close by forming a **bundl
 Using **all-atom molecular dynamics (MD) simulations**, we demonstrate that TRPV4 deploys a second, complementary gating mechanism — **hydrophobic gating** — in which the hydrophobic inner pore spontaneously dewets, forming a vapor-phase barrier that blocks ion permeation even in the absence of physical constriction. Key findings:
 
 - **Two mechanisms co-exist:** bundle-crossing constriction and hydrophobic dewetting both contribute to preventing ion flow in the closed state.
-- **A single mutation reveals the hydrophobic gate:** introducing a hydrophilic substitution I715N near the bundle crossing dramatically increased pore hydration and reduced the free energy barrier for K<sup>+</sup> permeation by approximately **50%**, without any measurable effect on the physical geometry of the bundle crossing. This single-point mutation was previously shown experimentally to increase resting channel activity.
+- **A single mutation reveals the hydrophobic gate:** introducing a hydrophilic substitution I715N near the bundle crossing dramatically increased pore hydration and reduced the free energy barrier for K`<sup>`+`</sup>` permeation by approximately **50%**, without any measurable effect on the physical geometry of the bundle crossing. This single-point mutation was previously shown experimentally to increase resting channel activity.
 - **General implication:** given the prevalence of hydrophobic inner pores across the ion channel superfamily, hydrophobic gating is likely a more general and underappreciated gating mechanism than previously recognized — even in channels where bundle crossing is considered the primary gate.
 
 ---

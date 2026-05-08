@@ -2,12 +2,11 @@
 title: "TMEM16F: Activation Mechanism and Dual Ion/Lipid Permeation Pathways"
 excerpt: "How does TMEM16F open its pore to conduct both ions and lipids? <br/><a href='/research/TMEM16F/' class='image'><img src='/images/research_images/TMEM16F.png' width=500></a><br/>"
 collection: research
-category: Ion channels
+category: Molecular mechanisms of Ion channels
 date: 2022-01-01
 order: 1
 ---
-
-**TMEM16F** is a Ca<sup>2+</sup>-activated phospholipid scramblase with a remarkable dual identity: it translocates phospholipids across the plasma membrane bilayer (scramblase activity) while also functioning as a non-selective ion channel. This dual functionality underlies critical physiological processes including blood coagulation, bone development, and viral membrane fusion. Loss-of-function mutations cause Scott syndrome, a bleeding disorder. Despite years of structural studies that have revealed the closed and intermediate conformations of mammalian TMEM16F, an open, conductive state had never been captured — leaving the activation mechanism and the molecular basis of its permeability largely unknown.
+**TMEM16F** is a Ca`<sup>`2+`</sup>`-activated phospholipid scramblase with a remarkable dual identity: it translocates phospholipids across the plasma membrane bilayer (scramblase activity) while also functioning as a non-selective ion channel. This dual functionality underlies critical physiological processes including blood coagulation, bone development, and viral membrane fusion. Loss-of-function mutations cause Scott syndrome, a bleeding disorder. Despite years of structural studies that have revealed the closed and intermediate conformations of mammalian TMEM16F, an open, conductive state had never been captured — leaving the activation mechanism and the molecular basis of its permeability largely unknown.
 
 *[Jia\*, Huang\*, & Chen, Biophys. J. 121, 3445–3457 (2022). [DOI](https://doi.org/10.1016/j.bpj.2022.08.011)]*
 

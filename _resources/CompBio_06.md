@@ -116,21 +116,26 @@ Assuming after MSM construction detailed above, we finally get the transition ma
 $$
 T_{ij} \geq 0
 $$
+
 $$
 \sum_{j} T_{ij} = 1
 $$
 
 **Diagonalization of the transition matrix** will give us eigenvalues ($\lambda$) and eigenvectors ($v$).
+
 $$
 Tv_{k} = \lambda_{k} v_{k}
 $$
+
 - The largest eigenvalue $\lambda_{1}$ = 1 (this property of the transition matrix is granted by the *Perron–Frobenius theorem*). and the corresponding eigenvector $v_{1}$ represents **the stationary distribution** or **the equilibrium probabilities** of states
 - Other eigenvalues $\lambda_{2}, \lambda_{3}, \dots$ will be smaller than 1. and each eigenvector corresponds to a relaxation process in the system
 
 The implied timescale of $\lambda_{k}$ can be calculated as:
+
 $$
 t_{k} = - \frac{\tau}{\ln(\lambda_{k})}
 $$
+
 This is the characteristic timescale over which the process associated with that eigenmode decays.
 
 The **eigenvectors** describe the conformational processes (modes):
@@ -143,59 +148,78 @@ The **eigenvectors** describe the conformational processes (modes):
 	- Higher eigenvalues (closer to zero) → fast processes (side-chain rotamers, local motions).
 
 For eigen pair $\lambda_{1}, v_{1}$:
+
 $$
 Tv_{1} = \lambda_{1}v_{1} = v_{1}
 $$
+
 where $v_{1} = \pi^{\top}$, the stationary/equilibrium distribution.
 
 Follow the same idea, for any probability distribution $p(t)$ at time $t$ in the eigenbasis of $T$:
+
 $$
 p(t) = \sum_{k} c_{k} v_{k}
 $$
+
 After n steps, (time = $n\tau$), 
+
 $$
 p(t+n\tau) = p(t)T^{n} = \sum_{k} c_{k} \lambda_{k}^{n} v_{k}
 $$
+
 - for $k=1$, $\lambda_{1}=1$, the term stays constant
 - for $k>1$, $0<\lambda_{k}<1$, as $n$ grows, $\lambda_{k}^{n} \to 0$, the term disappear. This is exactly why starting from the second eigenvector, the eigenvectors all represent *decaying modes*. and the eigenvalues of those eigenvectors tell us *how fast each mode decays*
 
 **Decaying timescale**
 
 Assuming my system has a set of possible states: $1,2,\dots, N$, the probability vector at time $t$:
+
 $$
 p_{t} = (p_{1}(t), p_{2}(t), \dots, p_{N}(t))
 $$
+
 The evolution of the system is governed by a master equation:
+
 $$
 \frac{d}{dt} p(t) = p(t) K
 $$
+
 where $K$ defines the rate transitions between states (unit: $s^{-1}$, how many transitions per unit time between state $i$ and state $j$). (*This is different to the $T$ transition matrix, which defines the probability of state $i$ and state $j$ transition after time $\tau$*).
 
 The solution to this linear ordinary differential equation is:
+
 $$
 p(t+\tau) = p(t) e^{ \tau K }
 $$
+
 $$
 e^{ \tau K } := \sum_{n=0}^{\infty} \frac{(\tau K)^{n}}{n!}
 $$
-since for any form like $\frac{dy}{dt} = ky$, they all have a general solution as $y(t)=y_{0}e^{ kt }$.
+
+Since for any form like $\frac{dy}{dt} = ky$, they all have a general solution as $y(t)=y_{0}e^{ kt }$.
 
 Also, since $T(\tau)$ comes from a continuous-time Markov process, by definition, we have
+
 $$
 p(t+\tau) = p(t)T(\tau)
 $$
 
 Thus:
+
 $$
 T(\tau) = e^{ \tau K }
 $$
+
 The eigenvalues are related to exponential decays:
+
 $$
 \lambda_{k} = e^{ - \tau/t_{k} }
 $$
+
 where $-\frac{1}{t_{k}} = u_{i}$, and $u_{i}$ is the eigenvalues of the $K$. $\lambda_{1}=1$ correspond to $t_{1}=0$, meaning *no decay at all* at the stationary/equilibration state
 
 Finally, we get the relationship between the timescales of decay and the eigenvalues of the transition matrix $T$.
+
 $$
 t_{k} = - \frac{\tau}{\ln \lambda_{k}}
 $$
